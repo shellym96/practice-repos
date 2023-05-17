@@ -139,3 +139,7 @@ body {
     margin: 0 auto;
     margin-top: 20px;
   }
+  /* added in to commit changes */
+  h6 {
+    color: green;
+  }
